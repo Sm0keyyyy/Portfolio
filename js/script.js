@@ -49,6 +49,7 @@ var typing = new Typed(".typing", {
     "Student",
     "Guitarist",
     "Junior Web Developer",
+    "Athlete",
   ],
   typeSpeed: 100,
   backSpeed: 100,
